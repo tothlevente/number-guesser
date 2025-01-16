@@ -1,0 +1,15 @@
+/workspaces/number-guesser/app/bin/Debug/net8.0/app
+/workspaces/number-guesser/app/bin/Debug/net8.0/app.deps.json
+/workspaces/number-guesser/app/bin/Debug/net8.0/app.runtimeconfig.json
+/workspaces/number-guesser/app/bin/Debug/net8.0/app.dll
+/workspaces/number-guesser/app/bin/Debug/net8.0/app.pdb
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.sourcelink.json
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.dll
+/workspaces/number-guesser/app/obj/Debug/net8.0/refint/app.dll
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.pdb
+/workspaces/number-guesser/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/workspaces/number-guesser/app/obj/Debug/net8.0/ref/app.dll
