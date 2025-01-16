@@ -1,6 +1,8 @@
 # Number guesser 🎈
 
-The computer thinks of a number and you try to guess it. The program gives you feedback on whether you guessed a higher or lower number.
+The computer thinks of a number and you try to guess it.
+
+The program gives you feedback on whether you guessed a higher or lower number.
 
 ## Available scripts:
 
