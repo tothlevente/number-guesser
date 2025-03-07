@@ -12,9 +12,7 @@ This project is a simple console-based game where the computer generates a rando
 
 - `./guessing_game` (on Linux/macOS) or `guessing_game.exe` (on Windows)
 
-## Purpose
-
-- **Learning Fundamentals:**
+## Learning Fundamentals
 
 It's a great beginner project for learning basic programming concepts like:
 
